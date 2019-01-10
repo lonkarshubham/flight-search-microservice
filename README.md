@@ -22,5 +22,6 @@ If you want custom pagination then http://localhost:9095/search?page=1&size=5
 2) Cache implementation
 3) Async HTTP calls
 4) Sorting of result
+5) Unit Test cases
 
 
